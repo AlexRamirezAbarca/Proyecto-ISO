@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2020.1.23)  5 MAR 2020 23:40
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2020.1.23)  5 MAR 2020 23:47
 entering extended mode
 **./Proyecto-Latex.tex
 (Proyecto-Latex.tex
@@ -199,22 +199,69 @@ Overfull \hbox (69.82878pt too wide) in paragraph at lines 150--151
  [] 
  []
 
-[5 <./Imagen4.png>] (Proyecto-Latex.aux) ) 
+<Imagen5.png, id=25, 428.802pt x 271.7352pt>
+File: Imagen5.png Graphic file (type png)
+<use Imagen5.png>
+Package pdftex.def Info: Imagen5.png  used on input line 161.
+(pdftex.def)             Requested size: 428.80095pt x 271.73451pt.
+<Imagen6.png, id=26, 275.1078pt x 254.8722pt>
+File: Imagen6.png Graphic file (type png)
+<use Imagen6.png>
+Package pdftex.def Info: Imagen6.png  used on input line 162.
+(pdftex.def)             Requested size: 275.10712pt x 254.87157pt.
+<Imagen8.png, id=27, 428.802pt x 227.4096pt>
+File: Imagen8.png Graphic file (type png)
+<use Imagen8.png>
+Package pdftex.def Info: Imagen8.png  used on input line 163.
+(pdftex.def)             Requested size: 428.80095pt x 227.40904pt.
+<Imagen9.png, id=28, 391.7034pt x 247.6452pt>
+File: Imagen9.png Graphic file (type png)
+<use Imagen9.png>
+Package pdftex.def Info: Imagen9.png  used on input line 164.
+(pdftex.def)             Requested size: 391.70244pt x 247.64458pt.
+<Imagen10.png, id=29, 360.3864pt x 276.5532pt>
+File: Imagen10.png Graphic file (type png)
+<use Imagen10.png>
+Package pdftex.def Info: Imagen10.png  used on input line 165.
+(pdftex.def)             Requested size: 360.38551pt x 276.55252pt.
+
+Overfull \hbox (83.80095pt too wide) in paragraph at lines 161--166
+ [] 
+ []
+
+
+Overfull \hbox (83.80095pt too wide) in paragraph at lines 161--166
+ [] 
+ []
+
+
+Overfull \hbox (46.70244pt too wide) in paragraph at lines 161--166
+ [] 
+ []
+
+
+Overfull \hbox (15.38551pt too wide) in paragraph at lines 161--166
+ [] 
+ []
+
+[5 <./Imagen4.png>] [6 <./Imagen5.png> <./Imagen6.png>] [7 <./Imagen8.png> <./I
+magen9.png>] [8 <./Imagen10.png>] (Proyecto-Latex.aux) ) 
 Here is how much of TeX's memory you used:
- 2157 strings out of 492482
- 26729 string characters out of 3122028
+ 2187 strings out of 492482
+ 27160 string characters out of 3122028
  89892 words of memory out of 3000000
- 6523 multiletter control sequences out of 15000+200000
+ 6548 multiletter control sequences out of 15000+200000
  3948 words of font info for 15 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  30i,5n,27p,632b,172s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Users/Alex/AppData/Local/Programs
-/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Alex/AppData/Lo
-cal/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Alex
-/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on Proyecto-Latex.pdf (5 pages, 1107048 bytes).
+<C:/Users/Alex/AppData/
+Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/A
+lex/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb>
+<C:/Users/Alex/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
+/cmsy10.pfb>
+Output written on Proyecto-Latex.pdf (8 pages, 1428529 bytes).
 PDF statistics:
- 39 PDF objects out of 1000 (max. 8388607)
+ 60 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 21 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 46 words of extra memory for PDF output out of 10000 (max. 10000000)
 
