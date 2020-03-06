@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2020.1.23)  5 MAR 2020 23:19
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2020.1.23)  5 MAR 2020 22:54
 entering extended mode
 **./Proyecto-Latex.tex
 (Proyecto-Latex.tex
@@ -174,7 +174,7 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
  [2] (Proyecto-Latex.aux) ) 
 Here is how much of TeX's memory you used:
  2131 strings out of 492482
- 26377 string characters out of 3122028
+ 26289 string characters out of 3122028
  89892 words of memory out of 3000000
  6502 multiletter control sequences out of 15000+200000
  3948 words of font info for 15 fonts, out of 3000000 for 9000
@@ -184,7 +184,7 @@ Here is how much of TeX's memory you used:
 ts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Alex/AppData/Local/Programs/Mi
 KTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Alex/AppData/Local/
 Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on Proyecto-Latex.pdf (2 pages, 52301 bytes).
+Output written on Proyecto-Latex.pdf (2 pages, 50343 bytes).
 PDF statistics:
  21 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
